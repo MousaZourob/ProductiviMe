@@ -15,7 +15,7 @@ body {
     position: relative;
     white-space: nowarp;
     overflow: hidden; 
-    width: 19ch;
+    width: 20ch;
     margin: 0 auto;
     top: -50px;
     font-size: 1rem;
@@ -25,14 +25,14 @@ body {
     overflow: hidden;
     white-space: nowrap;
     border-right: 4px solid white;
-    width: 19ch;
+    width: 20ch;
 }
 @keyframes typewriter {
     0% {
         width: 0ch;
     }
     100% {
-        width: 19ch;
+        width: 20ch;
     }
 }    
 header {
