@@ -4,4 +4,4 @@ The simple productivity to-do list webapp for minimalists. ProductiviMe is built
 **http://productivime.s3-website.ca-central-1.amazonaws.com/**
 <br />
 
-![demo](https://imgur.com/a/qxwv8Mz)
+![demo](https://i.imgur.com/56w82Dg.png)
