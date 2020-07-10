@@ -8,5 +8,5 @@ The simple productivity to-do list website for minimalists. ProductiviMe is buil
 <br />
 
 #### Resources Used: 
-**Google Fonts:** https://fonts.google.com/
-**Font-Awesome:** https://cdnjs.com/libraries/font-awesome
+* **Google Fonts:** https://fonts.google.com/
+* **Font-Awesome:** https://cdnjs.com/libraries/font-awesome
